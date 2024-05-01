@@ -1,0 +1,11 @@
+*
+
+!README.md
+!.gitignore
+!requirements.txt
+!setup.py
+!tests
+!test_password_is_valid.py
+!test_password_strength.py
+!password_checker
+!password_checker.py
